@@ -1,4 +1,5 @@
-# Author : Jigesh Sheoran / sheora
+# Author : Jigesh Sheoran / sheoraninfosec / bug0x
+# Last Updated : 11 September, 2025
 
 HOMOGLYPH_MAP = {
     # Mathematical Bold Capital Letters
