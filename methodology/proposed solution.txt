@@ -1,1 +1,2 @@
 proposed solution goes here
+1.Try to embedd homogly detection at DNS level
